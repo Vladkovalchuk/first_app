@@ -1,9 +1,10 @@
-== Welcome to Rails
+# Ruby on Rails tutorial
+This is the first application for it
 
-Rails is a web-application framework that includes everything needed to create
-database-backed web applications according to the Model-View-Control pattern.
 
-This pattern splits the view (also called the presentation) into "dumb"
+
+
+
 templates that are primarily responsible for inserting pre-built data in between
 HTML tags. The model contains the "smart" domain objects (such as Account,
 Product, Person, Post) that holds all the business logic and knows how to
@@ -252,5 +253,5 @@ test
 
 vendor
   External libraries that the application depends on. Also includes the plugins
-  subdirectory. If the app has frozen rails, those gems also go here, under
-  vendor/rails/. This directory is in the load path.
+
+
